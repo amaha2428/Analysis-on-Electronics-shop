@@ -7,4 +7,3 @@ The dataset contains 1,292,954 observations and 10 columns whose attributes are 
 - column name usage.
 
 After cleanign the dataset, analysis was carried out on the cleaned dataset where we answered different questions of interests with visualizations easy to understand , stated our observations and provided recommendation where needed.
-# Analysis-on-Electronics-shop
